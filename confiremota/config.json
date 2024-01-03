@@ -3,8 +3,8 @@
     {
       "radio_name": "Rádio Gaúcha 93.7FM + 600AM",
       "radio_genre": "Porto Alegre / RS ",
-      "radio_url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_439b7903-634f-44b2-b7d2-aa8519d632fb.m3u8",
-      "radio_image_url": "https://hidroesta.files.wordpress.com/2024/01/radio-gaucha-93.7-fm-de-porto-alegre.png",
+      "radio_url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_41344d92-399b-4d24-a373-df50de9f066e.m3u8",
+      "radio_image_url": "https://hidroesta.files.wordpress.com/2024/01/radio-gaucha-93.7-fm.png",
       "background_image_url": "https://hidroesta.files.wordpress.com/2024/01/gaucha-93.7-fm.jpg",
       "blur_radio_background": "true",
       "song_metadata": "true",
@@ -23,7 +23,7 @@
   ],
   "ads": [
     {
-      "ad_status": "0",
+      "ad_status": "1",
       "ad_type": "admob",
       "backup_ads": "none",
       "admob_publisher_id": "pub-2330806298207541",
